@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-1\sy1-1\bin\Debug\sy1-1.exe.config
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-1\sy1-1\bin\Debug\sy1-1.exe
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-1\sy1-1\bin\Debug\sy1-1.pdb
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-1\sy1-1\obj\Debug\sy1-1.exe
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-1\sy1-1\obj\Debug\sy1-1.pdb
+C:\Users\lenovo\Desktop\20142923-张一博\源程序\sy1-1\sy1-1\bin\Debug\sy1-1.exe.config
+C:\Users\lenovo\Desktop\20142923-张一博\源程序\sy1-1\sy1-1\obj\Debug\sy1-1.exe
+C:\Users\lenovo\Desktop\20142923-张一博\源程序\sy1-1\sy1-1\obj\Debug\sy1-1.pdb
